@@ -1,0 +1,20 @@
+# Open data and generated results are not committed
+data/
+outputs/
+
+# Local environments and dependency caches
+.venv/
+.figure_deps/
+__pycache__/
+*.py[cod]
+
+# Local submission artifacts
+*.docx
+*.zip
+*.tiff
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
